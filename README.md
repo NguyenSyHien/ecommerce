@@ -1,3 +1,5 @@
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/e647f891-8c41-4ac1-8c9c-71f0a18acfa6">
+
 Project Description:
 
 This project focuses on analyzing data from a Brazilian e-commerce company to gain insights into customer behavior, payment methods, product reviews, and the geographical distribution of purchases. As a Data Analyst, the goal is to clean, process, and visualize this data to identify trends, inform business decisions, and optimize customer experience.
